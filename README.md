@@ -1,4 +1,4 @@
 # demo
 This is demo Repository.
 <br>
-Author - Manodhar
+Author - Sadhu Manodhar
